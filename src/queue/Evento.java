@@ -13,7 +13,7 @@ import java.util.Queue;
  Todo a través de una interfaz de consola.
  */
 public class Evento {
-    Queue<Asistente> cola;
+    Queue<Integer> cola;
     int aforo;
     int cantDisponibles;
 
